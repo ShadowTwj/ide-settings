@@ -1,0 +1,11 @@
+<application>
+  <component name="UpdatesConfigurable">
+    <option name="LAST_BUILD_CHECKED" value="IU-213.5744.223" />
+    <option name="LAST_TIME_CHECKED" value="1644321860330" />
+    <pluginHosts>
+      <item value="https://plugins.zhile.io" />
+      <item value="https://msstest.sankuai.com/v1/mss_6cca42e070ee44908c76ce3d2854c6ff/thunder/thunderplugin.xml" />
+    </pluginHosts>
+    <option name="THIRD_PARTY_PLUGINS_ALLOWED" value="true" />
+  </component>
+</application>
