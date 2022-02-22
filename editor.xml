@@ -10,6 +10,13 @@
     <option name="USE_SOFT_WRAPS" value="CONSOLE:PREVIEW" />
     <option name="IS_WHEEL_FONTCHANGE_ENABLED" value="true" />
   </component>
+  <component name="InlayHintsSettings">
+    <option name="disabledHintProviderIds">
+      <set>
+        <option value="JAVA.chain.hints" />
+      </set>
+    </option>
+  </component>
   <component name="TodoConfiguration">
     <pattern pattern="\btodo\b.*" />
     <pattern pattern="\bfixme\b.*" />
