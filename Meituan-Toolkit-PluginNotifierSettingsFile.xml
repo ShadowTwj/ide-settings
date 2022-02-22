@@ -2,8 +2,8 @@
   <component name="Meituan-Toolkit-PluginNotifierSettings">
     <option name="autoUpdate" value="true" />
     <option name="checkUpdates" value="true" />
-    <option name="lastExecution" value="1644377869778" />
-    <option name="nextExecution" value="1644464269778" />
+    <option name="lastExecution" value="1645516174970" />
+    <option name="nextExecution" value="1645602574970" />
     <option name="updateInterval" value="天" />
   </component>
 </application>
