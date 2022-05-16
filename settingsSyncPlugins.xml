@@ -82,6 +82,17 @@
             </PluginData>
           </value>
         </entry>
+        <entry key="PlantUML integration">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.platform" />
+                </set>
+              </option>
+            </PluginData>
+          </value>
+        </entry>
         <entry key="SequenceDiagram">
           <value>
             <PluginData>
@@ -251,6 +262,18 @@
             </PluginData>
           </value>
         </entry>
+        <entry key="com.intellij.zh">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.platform" />
+                </set>
+              </option>
+              <option name="enabled" value="false" />
+            </PluginData>
+          </value>
+        </entry>
         <entry key="com.jiyuanime.ActivatePowerModeApplicationPlugin">
           <value>
             <PluginData>
@@ -290,7 +313,18 @@
                   <option value="org.jetbrains.idea.maven" />
                 </set>
               </option>
-              <option name="enabled" value="false" />
+            </PluginData>
+          </value>
+        </entry>
+        <entry key="com.sankuai.waimai.soniclint.intellij">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.lang" />
+                  <option value="com.sankuai.meituan.major.thunder" />
+                </set>
+              </option>
             </PluginData>
           </value>
         </entry>
