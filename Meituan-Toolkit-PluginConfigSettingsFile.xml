@@ -1,0 +1,5 @@
+<application>
+  <component name="Meituan-Toolkit-PluginConfigSettings">
+    <option name="logLevel" value="INFO" />
+  </component>
+</application>
