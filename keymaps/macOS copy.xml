@@ -41,6 +41,9 @@
     <mouse-shortcut keystroke="button5" />
   </action>
   <action id="HippieCompletion" />
+  <action id="IDEKit AI Tab">
+    <keyboard-shortcut first-keystroke="shift meta 0" />
+  </action>
   <action id="JumpToNextChange">
     <keyboard-shortcut first-keystroke="ctrl meta back_space" />
     <keyboard-shortcut first-keystroke="shift ctrl back_space" />
